@@ -19,6 +19,7 @@
 ### Demo Center (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/11)
 ### 원하는 기능 찾는 방법 (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/10)
 ### Visual Studio에서 DevExpress 패키지 Input 방법 (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/2)
+### Code Rush (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/14)
 
 # DevExpress 시작하기
 ### C# DevExpress 적용하여 프로젝트 생성 (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/5)
