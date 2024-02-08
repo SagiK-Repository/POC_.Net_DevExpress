@@ -9,8 +9,6 @@
 ### 제작자
 [@SAgiKPJH](https://github.com/SAgiKPJH)
 
-### 참조
-
 <br><br>
 
 # DevExpress 기능
