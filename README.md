@@ -23,6 +23,7 @@
 ### C# DevExpress 적용하여 프로젝트 생성 (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/5)
 ### DevExpress MVVM 구축 (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/9)
 ### C# CS DevExpress 적용 방법 (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/4)
+### C# Xaml DevExpress 적용 방법 (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/3)
 
 # DevExpress 변경
 ### Visual Studio에서 DevExpress Version Change 방법 (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/1)
