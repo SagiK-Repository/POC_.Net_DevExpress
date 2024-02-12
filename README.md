@@ -30,3 +30,4 @@
 
 # DevExpress issu
 ### DevExpress Theme dll 이슈 (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/7)
+### DevExpress Language 이슈 (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/8)
