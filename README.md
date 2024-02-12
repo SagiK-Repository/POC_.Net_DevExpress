@@ -27,3 +27,6 @@
 
 # DevExpress 변경
 ### Visual Studio에서 DevExpress Version Change 방법 (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/1)
+
+# DevExpress issu
+### DevExpress Theme dll 이슈 (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/7)
