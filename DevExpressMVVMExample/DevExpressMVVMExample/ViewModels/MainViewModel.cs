@@ -10,6 +10,10 @@ namespace DevExpressMVVMExample.ViewModels
         [GenerateProperty]
         int _Count;
 
+        [GenerateProperty]
+        [StringLength(100, MinimumLength = 5)]
+        string _Text = "12345";
+
         [GenerateCommand]
         void Increse() => Count++;
 
