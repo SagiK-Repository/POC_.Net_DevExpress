@@ -1,0 +1,43 @@
+﻿<UserControl 
+    x:Class="DevExpressMVVMExample.Views.MainView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:dxmvvm="http://schemas.devexpress.com/winfx/2008/xaml/mvvm" 
+    xmlns:ViewModels="clr-namespace:DevExpressMVVMExample.ViewModels"
+    mc:Ignorable="d" d:DesignHeight="300" d:DesignWidth="300">
+    <UserControl.DataContext>
+        <ViewModels:MainViewModel/>
+    </UserControl.DataContext>
+
+    <StackPanel HorizontalAlignment="Center"
+                VerticalAlignment="Center">
+        <TextBlock Text="{Binding Count}"
+                   FontSize="24"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   Margin="0,0,0,20" />
+        <Button Content="Increase"
+                Command="{Binding IncreseCommand}"
+                Width="100"
+                Height="30" />
+        <Button Content="Decrease"
+                Command="{Binding DecreaseCommand}"
+                Width="100"
+                Height="30" />
+        <Button Content="Can Count>10 Init"
+                Command="{Binding InitializeCommand}"
+                Width="130"
+                Height="30" />
+        <Button Content="Async Increse"
+                Command="{Binding AsyncIncreseCommand}"
+                Width="130"
+                Height="30" />
+        <TextBlock Text="Text Length Bigger 100 And Minimum Length Is 5"
+                   FontSize="12"
+                   HorizontalAlignment="Center"
+                   VerticalAlignment="Center"
+                   Margin="0,0,0,20" />
+    </StackPanel>
+</UserControl>
