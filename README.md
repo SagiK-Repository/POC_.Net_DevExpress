@@ -42,3 +42,4 @@
 
 # Usage
 ### Splash Window (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/20)
+### Themed Window Boader (https://github.com/SagiK-Repository/POC_.Net_DevExpress/issues/21)
